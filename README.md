@@ -12,3 +12,6 @@ This project introduces JavaScript interactivity with variables and functions.
 - index.html – Webpage structure
 - script.js – JavaScript logic
 - README.md – Project explanation
+
+## Visit live website at this link:
+https://noorfatimab.github.io/JavaScript-Basics-lesson7.3/ 
